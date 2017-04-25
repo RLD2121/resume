@@ -217,7 +217,7 @@ span {
   width: 100%;
   padding-bottom: 5%;
   background-size: 100% 100%;
-  background-image: url("../images/map.png");
+  background-image: url("/images/map.png");
 }
 
 @media only screen and (min-width: 750px) {
@@ -238,7 +238,7 @@ span {
 
 #education {
     background-size: 100% 100%;
-    background-image: url("../images/school.png");
+    background-image: url("/images/school.png");
 }
 
 #projects {
