@@ -238,7 +238,7 @@ span {
 
 #education {
     background-size: 100% 100%;
-    background-image: url("/images/school.png");
+    background-image: url(../images/school.png);
 }
 
 #projects {
